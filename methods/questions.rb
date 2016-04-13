@@ -10,3 +10,8 @@
 
 # This program will not print anything to the screen because of the explicity return.
 # Nothing gets run after the return
+
+#Exercise 6
+
+# The wrong number of arguments were used to call the methond. The argument has 2 arguments but it can only find one.
+#We are missing an end
